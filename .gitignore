@@ -3,3 +3,4 @@
 
 # Playground exports (if any)
 *.json
+__pycache__/
