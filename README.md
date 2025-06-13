@@ -1,4 +1,4 @@
-# openai-ma-quant-analyst
+# Openai M&A Quant Analyst
 ChatGPT based software to analyze Definitive Merger and Acquisition Letters and predict the success rate 
 
 # M&A Quantitative Analyst AI Playground Config
